@@ -14,3 +14,5 @@ Post::create([
         'name' => 'Personal',
         'slug' => 'personal'
         ])
+
+    
